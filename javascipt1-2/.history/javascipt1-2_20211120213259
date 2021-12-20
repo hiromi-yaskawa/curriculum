@@ -1,0 +1,4 @@
+let name ="hoge";
+console.log(name);
+let name="fuge"
+console.log(name");

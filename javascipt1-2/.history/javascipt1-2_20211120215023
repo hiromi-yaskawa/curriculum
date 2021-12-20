@@ -1,0 +1,5 @@
+let name ="池田";
+console.log(name + "くん");
+
+let number="fuge";
+console.log(name);

@@ -1,0 +1,5 @@
+let name ="いけ";
+console.log(name);
+
+let name="fuge";
+console.log(name);
